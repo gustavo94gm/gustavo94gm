@@ -56,10 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gustavo94gm/gustavo94gm/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="left">Gostaria de se conectar e me conhecer melhor? Fique a vontade!</h1>
 
 ###
