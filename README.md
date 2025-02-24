@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Gustavo Mueller, tenho 16 anos.</p>
+<p align="left">Meu nome é Gustavo Mueller, tenho 17 anos.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👾CEO da Prazo-Zero<br>📚 Estudo no Ensino Médio Técnico Senac RS</p>
+<p align="left">👾Integrante e Criador do Projeto Prazo-Zero<br>📚 Estudo no Ensino Médio Técnico Senac RS</p>
 
 ###
 
